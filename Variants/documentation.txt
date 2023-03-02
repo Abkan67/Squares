@@ -1,0 +1,1 @@
+This folder contains all the interesting variants that have been propsed as for me to test out. I plan to add a way to access the other Variants and reset with a button
